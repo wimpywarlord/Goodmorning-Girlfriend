@@ -15,7 +15,7 @@ Well not anymore ! Get delicately drafted messages on a tap distance away. Wish 
   
 A smarter way to a long lasting relationship.
 
-![My Banner](/website.png)
+![My Product](/website.png)
 
 **Link to the website** : https://goodmorning-girlfriend.herokuapp.com/#/
 
