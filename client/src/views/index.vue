@@ -56,7 +56,7 @@
         </div>
         <div class="form">
           <span>
-            <img style="margin-bottom: 4px !important;" v-b-popover.hover.top="'In case you want to see what kind of greeting will sent to your loved one. You can enter your own email below and test our service. If you like it , you can consider buying the pro subscription.'" title="Test our service." class="tool_tip_logo" src="https://image.flaticon.com/icons/svg/906/906794.svg" alt="">
+            <img style="margin-bottom: 4px !important;" v-b-popover.hover.top="'In case you want to see what kind of greeting will sent to your loved one. You can enter your own email below and test our service. If you like it, subscribe it for 2 weeks.'" title="Test our service." class="tool_tip_logo" src="https://image.flaticon.com/icons/svg/906/906794.svg" alt="">
             <b-form-group
               id="input-group-1"
               label="Email address:"
@@ -95,10 +95,10 @@
         <img
           height="100px"
           width="100px"
-          src="https://image.flaticon.com/icons/svg/190/190411.svg"
+          src="https://image.flaticon.com/icons/svg/595/595067.svg"
           alt
         />
-        <br />Let's go and check your mail.
+        <br />Email servers are down right now.
       </div>
     </div>
 
@@ -151,11 +151,11 @@
 
     <div class="payment_succesfull_box" v-if="payment_succ_message">
         <div class="message_for_payment_done center_col p-4 text-center" style="border-radius : 4px;">
-            <img height="70px"  width="70px" src="https://image.flaticon.com/icons/svg/2950/2950296.svg" alt="">
-            <b>Successful</b>
-            <span class="p-2"> <b>We hope</b> your messages are <b>recieved in good faith.</b></span>
-            <span class=""> <b>Sit back</b> and <b>relax</b> we have got you <b>covered</b></span>
-            <span class="pt-2 pb-3">See you again after two weeks</span> 
+            <img height="70px"  width="70px" src="https://image.flaticon.com/icons/svg/595/595067.svg" alt="">
+            <b>Error</b>
+            <span class="p-2"> <b>Due to</b> google's new Oauth policy <b> I am no more able to send emails for free.</b></span>
+            <span class=""> <b>Therefore this</b> service <b>is</b> temporarily <b>suspended</b></span>
+            <span class="pt-2 pb-3">Until a new version is released.</span> 
         </div>
     </div>
 
@@ -297,7 +297,7 @@ body {
 .message_for_payment_done
 {
   width: 60%;
-  background-color:#58D68D ;
+  background-color:#f6ff53 ;
 }
 .payment_succesfull_box
 {
@@ -569,7 +569,7 @@ div {
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  background-color: #82E0AA ;
+  background-color: #fcff40 ;
 }
 
 /* SUBMIT EMAIL BUTTOn */
