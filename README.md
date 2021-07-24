@@ -26,7 +26,7 @@ Its better if we familiarize ourselves with these technologies.
 ### Prerequisites
 [![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.instagram.com/kshitij_dhyani/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
 
-There no necessity for any software for running the project ! The editor and package manager are all at your discretion. 
+You will need to install vue.js, and node.js. 
 
 ## Installing☔
 
