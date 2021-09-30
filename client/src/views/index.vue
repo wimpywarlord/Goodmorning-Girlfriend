@@ -33,7 +33,7 @@
       class="row center bottom_nav"
       :class="{ bottom_nav_dark: dark_mode, bottom_nav_girl: !dark_mode }"
     >
-    <a style="color: inherit; text-decoration: none;" target="_blank" href="https://drive.google.com/file/d/15PwPgdw5pkGIcOmwTYyd0yLBcuRplWAW/view?usp=sharing">Made with 💖 by Kshitij |  Didn't get the mail ?</a>
+    <a style="color: inherit; text-decoration: none;" target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Made with 💖 by Kshitij |  Didn't get the mail ?</a>
     </div>
     <!-- POP UP  -->
     <div class="parent_pop_up" v-if="show_pop_up">
